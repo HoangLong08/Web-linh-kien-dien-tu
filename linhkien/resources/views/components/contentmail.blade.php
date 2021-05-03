@@ -1,0 +1,1 @@
+Lấy lại mật khẩu <a href="{{$body}}">link</a>
